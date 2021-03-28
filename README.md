@@ -1,4 +1,4 @@
-PROGRAMA DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA - PICT **
+**PROGRAMA DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA - PICT **
 
 A Iniciação Científica caracteriza-se por um instrumento que permite introduzir na pesquisa científica os estudantes de graduação. Tem por finalidade principal despertar jovens talentos para a ciência, propiciando sua participação em projetos de pesquisa.
 
